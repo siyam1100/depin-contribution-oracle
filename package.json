@@ -1,0 +1,9 @@
+{
+  "name": "depin-contribution-oracle",
+  "version": "1.0.0",
+  "description": "Hardware uptime and reward oracle",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
